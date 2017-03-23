@@ -1,8 +1,8 @@
 # Module 0: Welcome to the course!
 
-Welcome to INFO 201, Technical Foundations of Informatics. This is a course at the University of Washington's [Information School](https://ischool.uw.edu/). The purpose of this course is to teach students the necessary technical skills to begin writing code to work with data. While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.
+Welcome to INFX 598i, _Introduction to Programming for Information and Data Science_. This is a course at the University of Washington's [Information School](https://ischool.uw.edu/). The purpose of this course is to teach students the foundational programming skills necessary for further work in information and data sciences. While these resources are built for students currently enrolled in the course, they have been structured to be an online resource for anyone hoping to learn to work with information using programmatic approaches.
 
-These materials were adapted originally created by [Michael Freeman](http://mfviz.com/#/), and adapted by [Joel Ross](http://faculty.washington.edu/joelross/).
+These materials were created by [Joel Ross](http://faculty.washington.edu/joelross/). Some materials were adapted from those originally created by [Michael Freeman](http://mfviz.com/#/).
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -16,8 +16,7 @@ These materials were adapted originally created by [Michael Freeman](http://mfvi
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Expectations
-Given the ever-changing nature of the coding world, students will be responsible for **independent learning**, both in terms of managing their own pace, and seeking out new skills. These modules have been designed to provide an overview of core concepts necessary for success in the course.
-
+Given the ever-changing nature of the programming world, students will be responsible for **independent learning**, both in terms of managing their own pace, and seeking out new skills. These modules have been designed to provide an overview of core concepts necessary for success in the course.
 
 ## Organization
 This GitHub organization has a separate repository for each learning module. Each module contains the following:
@@ -28,9 +27,9 @@ This GitHub organization has a separate repository for each learning module. Eac
 
 All exercises provide an instructional template, as well as the completed version of the exercise. More specifically, each learning module with exercises has both `master` and `complete` branches (more on this later). To view the `complete` branch on GitHub, you can easily use the web interface to change branches:
 
-![change-branch](imgs/change-branch.png)
+![change-branch](img/change-branch.png)
 
-You can also access the code on your computer by checking out the branch via your terminal (more on this in [module 4](https://github.com/info201-w17/module4-git-basics)):
+You can also access the code on your computer by checking out the branch via your terminal (more on this in [module 4](../../../module4-git-basics)):
 
 ```bash
 # Clone your fork of the repository
